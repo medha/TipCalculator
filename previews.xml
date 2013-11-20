@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<previews>
+
+    <preview
+        name="Nexus S"
+        activity="com.codepath.tipcalculator.TipCalculator"
+        config="layout-ldltr-sw320dp-w320dp-h533dp-normal-long-port-notnight-hdpi-finger-keyssoft-nokeys-navhidden-nonav-800x480-v18"
+        device="Nexus S"
+        devicestate="Portrait"
+        target="Android 4.3"
+        theme="@style/AppTheme" >
+    </preview>
+
+</previews>
